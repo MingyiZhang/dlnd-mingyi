@@ -7,7 +7,7 @@ This repository contains completed projects that I did when I was learning the [
 
     - [First Neural Network](https://github.com/MingyiZhang/dlnd-mingyi/tree/master/projects/first-neural-network)
 
-    - [Image Classification](https://github.com/MingyiZhang/dlnd_mingyi/tree/master/projects/image-classification)
+    - [Image Classification](https://github.com/MingyiZhang/dlnd-mingyi/tree/master/projects/image-classification)
         > Convolutional Neural Networks
 
     - [Language Translation](https://github.com/MingyiZhang/dlnd-mingyi/tree/master/projects/language-translation)
